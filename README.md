@@ -1,4 +1,6 @@
-# GEDSCS - Integração do Gestor Eletrônico de Documentos do DAE de São Caetano do Sul com a localizção geográfica
+# GEDSCS
+
+Integração do Gestor Eletrônico de Documentos do DAE de São Caetano do Sul com a localizção geográfica
 
 ## APLICAÇÃO GED
 
